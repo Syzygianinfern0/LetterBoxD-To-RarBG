@@ -6,7 +6,7 @@ This script finds the IMDB Title ID from the LetterBoxD page and redirects you t
 ## Installation
 
 1. Install a userscript manager for your browser. I recommend [Tampermonkey](https://www.tampermonkey.net/).
-2. Install the userscript by clicking [here]()
+2. Install the userscript by clicking [here](https://raw.githubusercontent.com/Syzygianinfern0/LetterBoxD-To-RarBG/main/script.js)
 
 ## Usage
 
